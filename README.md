@@ -1,4 +1,4 @@
-# BloX LIS3DH
+# BloX Joy Linux
 
 The BloX Joy Linux implements [ROS2 drivers for a generic Linux joystick](https://github.com/ros-drivers/joystick_drivers).
 
