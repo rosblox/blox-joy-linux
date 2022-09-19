@@ -8,4 +8,6 @@ The BloX Joy Linux publishes joystick data as [sensor_msgs/msg/Joy](http://docs.
 
 ## Visualization
 
+Stuttering appears only in the recording due the gif length.
+
 ![](resources/visualization.gif)
